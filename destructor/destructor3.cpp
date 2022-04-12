@@ -38,6 +38,7 @@ class session
 int main()
 {
     session s;
+    s.logout();
     session s2;
     return 0;
 }
